@@ -7,3 +7,5 @@ Build workflow: `.github/workflows/deploy.yml`.
 Latest source sync: data-backed 2014/2024 Character Builder interface.
 
 Source update: normalized local JSON data paths for development mode.
+
+Homebrew workspace source sync: 7660c4fb0435670b2a6ff2f1527ea457c9a6fb91.
