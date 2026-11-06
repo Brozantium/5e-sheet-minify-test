@@ -15,3 +15,5 @@ Homebrew template syntax fix source sync: e12ec9a9eb123c498c60990d7339e893f8f85d
 Homebrew stylesheet import path fix source sync: 6092351d6ede8fb21738344f1baa6d5894c5c3d8.
 
 Homebrew shared layout stylesheet fix source sync: e221fa3a5b46dca1639950523b98d31c24738ab2.
+
+Homebrew reference-layout update source sync: fcd00683547eae6aa148522c75166a69503ad70a.
